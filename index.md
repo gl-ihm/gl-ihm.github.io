@@ -25,7 +25,17 @@ Une mailing-list est associée au groupe (faible trafic) : glihm **at** inria.fr
 
 # Réunions
 
-## 25 novembre 2021 (Virtuelle)
+## 24 mai 2022 (virtuelle)
+
+**Programme (14h-17h) :**
+TBA
+
+
+**Participants :**
+TBA
+
+
+## 25 novembre 2021 (virtuelle)
 
 **Programme (14h-17h) :**
 
