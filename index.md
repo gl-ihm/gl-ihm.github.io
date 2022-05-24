@@ -28,17 +28,12 @@ Une mailing-list est associée au groupe (faible trafic) : glihm **at** inria.fr
 ## 24 mai 2022 (virtuelle)
 
 **Programme (14h-17h) :**
-- Interacto: A Modern User Interaction Processing Model (Arnaud Blouin, Univ Rennes)<br/>
-https://hal.inria.fr/hal-03231669<br/>
-https://people.irisa.fr/Arnaud.Blouin/slides/icse22/icse-interacto.html<br/>
-https://www.youtube.com/watch?v=XKZel8YcO4M
-- TBA, Maxime Savary-Leblanc, Xavier Le Pallec
-- ...
-- Discussions
+- Quelles requêtes pour étudier une base de données de modèles (UML) ?, Maxime Savary-Leblanc, Xavier Le Pallec
+- Discussions diverses
 
 
 **Participants :**
-TBA
+Arnaud Blouin, Sybille Caffiau, Mickael Clavreul, Frédéric Jouault, Xavier Le Pallec, Célia Martinie, Johann Mortara, Philippe Palanque, Anne-Marie Pinna-Dery, Thibault Raffaillac, Emmanuel Renaux, Maxime Savary-Leblanc
 
 
 ## 25 novembre 2021 (virtuelle)
