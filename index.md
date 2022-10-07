@@ -22,6 +22,10 @@ Co-créateurs du groupe : Arnaud Blouin (INSA Rennes, IRISA/Inria), Xavier Le Pa
 Une mailing-list est associée au groupe (faible trafic) : glihm **at** inria.fr. Vous pouvez l'utiliser pour diffuser des informations (événements, conférences) liées au GL / IHM. L'inscription à cette liste s'effectue sur la page web suivante : https://sympa.inria.fr/sympa/info/glihm.
 
 
+# Publications issues du groupe
+
+- *Mining human factors general trends from +100k UML class diagrams*, Maxime Savary-Leblanc, Xavier Le Pallec, Philippe Palanque, Célia Martinie, Arnaud Blouin, Frédéric Jouault, Mickaël Clavreul, Thibault Raffaillac, 6th International Workshop on Human Factors in Modeling / Modeling of Human Factors (HuFaMo'22), Oct 2022, Montréal, Canada
+
 
 # Réunions
 
