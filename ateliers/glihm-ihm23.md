@@ -1,6 +1,11 @@
 
 # Atelier GL-IHM à IHM 2023
 
+## Organisateurs
+
+- Arnaud Blouin, Univ Rennes
+- Philippe Palanque, Université Toulouse III
+- Xavier Le Pallec, Univ Lille
 
 ## Thématique principale de l'atelier à IHM 2023
 
@@ -11,7 +16,7 @@ Les fonctions d'utilisabilité (usability functions) et leur présence dans les 
 
 - 1 page attendue (plus si utile)
 - format ACM SIGCHI double colonne 
-- par email aux organisateurs de l'atelier (arnaud.blouin@irisa.fr, palanque@irit.fr)
+- par email aux organisateurs de l'atelier (arnaud.blouin at irisa point fr, palanque at irit point fr)
 - date limite 23/01/2023 AoE
 - notification le 27/01/2023
 - programme publié sur le site IHM le 01/03/2023
