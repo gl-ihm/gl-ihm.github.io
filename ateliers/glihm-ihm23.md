@@ -25,8 +25,8 @@ Les fonctions d'utilisabilité (usability functions) et leur présence dans les 
 
 
 ## Introduction
-Dans l'article [ref1], une fonction d'utilisabilité est définie en référence aux fonctions de sécurité [ref2] (e.g. un screen locker) ou de sureté [ref3] (e.g. une ceinture de sécurité dans une voiture). L'undo/redo, l'annulation de tâches en cours (cancelation) ou le feedforward sont des fonctions d'utilisabilité dans la mesure où elles n'ajoutent pas de fonctionnalités nouvelles au système mais augmentent uniquement son utilisabilité. De façon similaire, une fonction de sureté va accroitre la sureté du système en prévenant des problèmes de sureté non désirés (par exemple la ceinture de sécurité n'ajoute rien au véhicule mais accroit la sureté des passagers en réduisant meur probabilité d'être bléssés ou d'être tués).
-Actuellement les fonctions d'utilisabilité sont nombreuses, difficiles à programmer (e.g. pour undo [ref4]), hétérogènes et mal identifiées même si leur bénéfice en terme d'utilisabilité est indiscutable. 
+Dans l'article [1], une fonction d'utilisabilité est définie en référence aux fonctions de sécurité [2] (e.g. un screen locker) ou de sureté [3] (e.g. une ceinture de sécurité dans une voiture). L'undo/redo, l'annulation de tâches en cours (cancelation) ou le feedforward sont des fonctions d'utilisabilité dans la mesure où elles n'ajoutent pas de fonctionnalités nouvelles au système mais augmentent uniquement son utilisabilité. De façon similaire, une fonction de sureté va accroitre la sureté du système en prévenant des problèmes de sureté non désirés (par exemple la ceinture de sécurité n'ajoute rien au véhicule mais accroit la sureté des passagers en réduisant meur probabilité d'être bléssés ou d'être tués).
+Actuellement les fonctions d'utilisabilité sont nombreuses, difficiles à programmer (e.g. pour undo [4]), hétérogènes et mal identifiées même si leur bénéfice en terme d'utilisabilité est indiscutable. 
 
 
 ## Activités envisagées dans l'atélier
@@ -64,10 +64,10 @@ Pour lancer la réflexion nous proposons ci-dessous un ensemble de fonctions d'u
 - etc.
 
 *Références*
-[ref 1] Navarre, D., Palanque, P., Coppers, S., Luyten, K., & Vanacken, D. (2021). Model-based Engineering of Feedforward Usability Function for GUI Widgets.  Interacting with Computers, 33(1), 73-91.
-[ref2] Yoon, C., Park, T., Lee, S., Kang, H., Shin, S. and Zonghua, Z. (2015) Enabling security functions with SDN. Comput. Netw., 85, 19–35. 
-[ref3] Lee, S. and Yamada, Y. (2010) Strategy on safety function implementation: case study involving risk assessment and functional safety analysis for a power assist system. Adv. Robot., 24, 1791–1811.
-[ref4] Interacto: A Modern User Interaction Processing Model. Arnaud Blouin, Jean-Marc Jézéquel. IEEE Transactions on Software Engineering, 2021
+- [1] Navarre, D., Palanque, P., Coppers, S., Luyten, K., & Vanacken, D. (2021). Model-based Engineering of Feedforward Usability Function for GUI Widgets.  Interacting with Computers, 33(1), 73-91.
+- [2] Yoon, C., Park, T., Lee, S., Kang, H., Shin, S. and Zonghua, Z. (2015) Enabling security functions with SDN. Comput. Netw., 85, 19–35. 
+- [3] Lee, S. and Yamada, Y. (2010) Strategy on safety function implementation: case study involving risk assessment and functional safety analysis for a power assist system. Adv. Robot., 24, 1791–1811.
+- [4] Interacto: A Modern User Interaction Processing Model. Arnaud Blouin, Jean-Marc Jézéquel. IEEE Transactions on Software Engineering, 2021
 
 
 ## Contribution
