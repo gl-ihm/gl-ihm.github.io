@@ -72,8 +72,8 @@ Pour lancer la réflexion nous proposons ci-dessous un ensemble de fonctions d'u
 
 ## Contribution
 
-Voici une liste non exhaustive de contributions attendues :
+Voici une liste non exhaustive de contributions attendues par les auteurs pour leur article d'une page :
 - Détail d'une fonction d'utilisabilité
 - Détail concernant la (non) présence d'une fonction d'utilisabilité dans les toolkits UI ou logiciels actuels
 - Détail sur comment un logiciel donné gère certaines fonctions d'utilisabilité
-- Détail sur une ou plusieurs tâches des développeurs
+- Détail sur une ou plusieurs tâches de développement
