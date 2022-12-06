@@ -29,6 +29,11 @@ Une mailing-list est associée au groupe (faible trafic) : glihm **at** inria.fr
 
 # Réunions
 
+## Atelier à IHM 2023 le 3 avril 2023
+
+[Plus de détails sur la page dédiée.](ateliers/glihm-ihm23.html)
+
+
 ## 24 mai 2022 (virtuelle)
 
 **Programme (14h-17h) :**
