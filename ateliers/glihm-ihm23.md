@@ -25,11 +25,11 @@ Les fonctions d'utilisabilité (usability functions) et leur présence dans les 
 
 
 ## Introduction
-Dans l'article [1], une fonction d'utilisabilité est définie en référence aux fonctions de sécurité [2] (e.g. un screen locker) ou de sureté [3] (e.g. une ceinture de sécurité dans une voiture). L'undo/redo, l'annulation de tâches en cours (cancelation) ou le feedforward sont des fonctions d'utilisabilité dans la mesure où elles n'ajoutent pas de fonctionnalités nouvelles au système mais augmentent uniquement son utilisabilité. De façon similaire, une fonction de sureté va accroitre la sureté du système en prévenant des problèmes de sureté non désirés (par exemple la ceinture de sécurité n'ajoute rien au véhicule mais accroit la sureté des passagers en réduisant meur probabilité d'être bléssés ou d'être tués).
+Dans l'article [1], une fonction d'utilisabilité est définie en référence aux fonctions de sécurité [2] (e.g. un screen locker) ou de sureté [3] (e.g. une ceinture de sécurité dans une voiture). L'undo/redo, l'annulation de tâches en cours (cancelation) ou le feedforward sont des fonctions d'utilisabilité dans la mesure où elles n'ajoutent pas de fonctionnalités nouvelles au système mais augmentent uniquement son utilisabilité. De façon similaire, une fonction de sureté va accroitre la sureté du système en prévenant des problèmes de sureté non désirés (par exemple la ceinture de sécurité n'ajoute rien au véhicule mais accroit la sureté des passagers en réduisant leur probabilité d'être blessés ou d'être tués).
 Actuellement les fonctions d'utilisabilité sont nombreuses, difficiles à programmer (e.g. pour undo [4]), hétérogènes et mal identifiées même si leur bénéfice en terme d'utilisabilité est indiscutable. 
 
 
-## Activités envisagées dans l'atélier
+## Activités envisagées dans l'atelier
 Même si le thème de l'atelier est unique, les objectifs sont multiples et peuvent être orientés vers les diverses communautés qui constituent le GT GL-IHM : l'idée est de recenser les fonctions d'utilisabilité (communauté IHM) et d'évaluer leur présence dans les toolkits et logiciels actuels (communauté GL).
 
 Nous proposons ici un ensemble de pistes à prioriser en fonction de l'intérêt des participants : 
@@ -38,14 +38,14 @@ Nous proposons ici un ensemble de pistes à prioriser en fonction de l'intérêt
 - Recensement des tâches de développement (aussi bien code que modèle) et identification de ces tâches dont la charge de travail est allégée par l'ajout de fonctions d'utilisabilité 
 
 
-Pour lancer la réflexion nous proposons ci-dessous un ensemble de fonctions d'utilisabilité et de tâches de dévelopement. 
+Pour lancer la réflexion nous proposons ci-dessous un ensemble de fonctions d'utilisabilité et de tâches de développement. 
 
 *Fonctions d'utilisabilité*
 - undo/redo
 - copier/coller
 - feedforward
 - feedback
-- suggestions/completion
+- suggestions/complétion
 - navigation
 - build system 
 - Continuous Integration / Continuous Deployment
@@ -55,12 +55,12 @@ Pour lancer la réflexion nous proposons ci-dessous un ensemble de fonctions d'u
 
 *Exemples de tâches des développeurs (activités en développement en solo programmation ou modélisation)*
 - reusinage (refactoring)
-- écriture/execution tests
+- écriture/exécution tests
 - détecter les défauts
 - corriger les défauts 
 - produire les fonctions demandées dans les exigences 
 - offrir les performances demandées dans les exigences
-- navigation dans code/modèle (comprehénsion)
+- navigation dans code/modèle (compréhension)
 - etc.
 
 *Références*
@@ -72,7 +72,7 @@ Pour lancer la réflexion nous proposons ci-dessous un ensemble de fonctions d'u
 
 ## Contribution
 
-Voici une liste non exhausitive de contributions attendues :
+Voici une liste non exhaustive de contributions attendues :
 - Détail d'une fonction d'utilisabilité
 - Détail concernant la (non) présence d'une fonction d'utilisabilité dans les toolkits UI ou logiciels actuels
 - Détail sur comment un logiciel donné gère certaines fonctions d'utilisabilité
