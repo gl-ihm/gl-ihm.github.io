@@ -12,21 +12,14 @@
 Les fonctions d'utilisabilité (usability functions) et leur présence dans les toolkits UI : définition, recensement, description et spécification.  
 
 
-## Instructions aux auteurs - soumission & notification
 
-- 1 page attendue (plus si utile)
-- format ACM SIGCHI double colonne 
-- par email aux organisateurs de l'atelier (arnaud.blouin at irisa point fr, palanque at irit point fr)
-- date limite 23/01/2023 AoE
-- notification le 27/01/2023
-- programme publié sur le site IHM le 01/03/2023
-- atelier le 03/04/2023 (toute la journée)
 
 
 
 ## Introduction
 Dans l'article [1], une fonction d'utilisabilité est définie en référence aux fonctions de sécurité [2] (e.g. un screen locker) ou de sureté [3] (e.g. une ceinture de sécurité dans une voiture). L'undo/redo, l'annulation de tâches en cours (cancelation) ou le feedforward sont des fonctions d'utilisabilité dans la mesure où elles n'ajoutent pas de fonctionnalités nouvelles au système mais augmentent uniquement son utilisabilité. De façon similaire, une fonction de sureté va accroitre la sureté du système en prévenant des problèmes de sureté non désirés (par exemple la ceinture de sécurité n'ajoute rien au véhicule mais accroit la sureté des passagers en réduisant leur probabilité d'être blessés ou d'être tués).
 Actuellement les fonctions d'utilisabilité sont nombreuses, difficiles à programmer (e.g. pour undo [4]), hétérogènes et mal identifiées même si leur bénéfice en terme d'utilisabilité est indiscutable. 
+
 
 
 ## Activités envisagées dans l'atelier
@@ -68,6 +61,33 @@ Pour lancer la réflexion nous proposons ci-dessous un ensemble de fonctions d'u
 - [2] Yoon, C., Park, T., Lee, S., Kang, H., Shin, S. and Zonghua, Z. (2015) Enabling security functions with SDN. Comput. Netw., 85, 19–35. 
 - [3] Lee, S. and Yamada, Y. (2010) Strategy on safety function implementation: case study involving risk assessment and functional safety analysis for a power assist system. Adv. Robot., 24, 1791–1811.
 - [4] Interacto: A Modern User Interaction Processing Model. Arnaud Blouin, Jean-Marc Jézéquel. IEEE Transactions on Software Engineering, 2021
+
+
+## Présentations pendant l'atelier
+
+
+- **Vers l'identification des fonctions d’utilisabilité à fort impact sur la conception**, Elodie Bouzekri (Univ. Bordeaux, ESTIA INSTITUT DE TECHNOLOGIE)
+- **Fonctions d'utilisabilité des configurateurs Web : aperçu et perspectives**, Tony Leclercq, Patrick Heymans (Université de Namur, NaDI - PReCISE)
+- **Fonctions d'utilisabilité dans les studios de conception de langages dédiés graphiques**, Théo Giraudet, Pierre-Charles David (Obeo)
+- **Génération de correctifs pour les modèles partiels d'AnimUML**, Mickael Clavreul, Frédéric Jouault, Maxime Méré, Matthias Brun, Théo Le Calvar, Matthias Pasquier, Ciprian Teodorov (ESEO, STMicroelectronics, IMT Atlantique, ERTOSGENER, ENSTA Bretagne)
+- **Fortunettes: Une Fonction d’Utilisabilité de Comportement pour les Systèmes Interactifs**, Philippe Palanque, David Navarre, Célia Martinie (ICS-IRIT, Université Paul Sabatier – Toulouse III), Kris Luyten (Expertise Centre for Digital Media)
+
+## Organisation de la journée (en cours de définition)
+
+- 9h-12h : présentations et discussions
+- 14h-17h : discussions, roadmap
+
+
+## Instructions aux auteurs - soumission & notification
+
+- 1 page attendue (plus si utile)
+- format ACM SIGCHI double colonne 
+- par email aux organisateurs de l'atelier (arnaud.blouin at irisa point fr, palanque at irit point fr)
+- date limite 23/01/2023 AoE
+- notification le 27/01/2023
+- programme publié sur le site IHM le 01/03/2023
+- atelier le 03/04/2023 (toute la journée)
+
 
 
 ## Contribution
