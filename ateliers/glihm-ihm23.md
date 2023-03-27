@@ -72,10 +72,30 @@ Pour lancer la réflexion nous proposons ci-dessous un ensemble de fonctions d'u
 - **Génération de correctifs pour les modèles partiels d'AnimUML**, Mickael Clavreul, Frédéric Jouault, Maxime Méré, Matthias Brun, Théo Le Calvar, Matthias Pasquier, Ciprian Teodorov (ESEO, STMicroelectronics, IMT Atlantique, ERTOSGENER, ENSTA Bretagne)
 - **Fortunettes: Une Fonction d’Utilisabilité de Comportement pour les Systèmes Interactifs**, Philippe Palanque, David Navarre, Célia Martinie (ICS-IRIT, Université Paul Sabatier – Toulouse III), Kris Luyten (Expertise Centre for Digital Media)
 
-## Organisation de la journée (en cours de définition)
+## Organisation de la journée
 
-- 9h-12h : présentations et discussions
-- 14h-17h : discussions, roadmap
+### Matin
+
+- 9h-9h20 : introduction (Arnaud Blouin)
+- 9h25-9h50 : Fonctions d'utilisabilité des configurateurs Web : aperçu et perspectives, Tony Leclercq, Patrick Heymans (Université de Namur, NaDI - PReCISE)
+- 9h50-10h15 : Fonctions d'utilisabilité dans les studios de conception de langages dédiés graphiques, Théo Giraudet, Pierre-Charles David (Obeo)
+- 10h15: 10h30: discussions
+
+- 10h30-11h : pause café
+
+- 11h-11h25 : Vers l'identification des fonctions d’utilisabilité à fort impact sur la conception, Elodie Bouzekri (Univ. Bordeaux, ESTIA INSTITUT DE TECHNOLOGIE)
+- 11h25-11h50 : Fortunettes: Une Fonction d’Utilisabilité de Comportement pour les Systèmes Interactifs, Philippe Palanque, David Navarre, Célia Martinie (ICS-IRIT, Université Paul Sabatier – Toulouse III), Kris Luyten (Expertise Centre for Digital Media)
+- 11h50-12h15 : Génération de correctifs pour les modèles partiels d'AnimUML**, Mickael Clavreul, Frédéric Jouault, Maxime Méré, Matthias Brun, Théo Le Calvar, Matthias Pasquier, Ciprian Teodorov (ESEO, STMicroelectronics, IMT Atlantique, ERTOSGENER, ENSTA Bretagne)
+- 12h15: 12h30: discussions
+
+- 12h30-13h45 : pause déjeuner
+
+
+### Après-midi (en cours de définition)
+
+- 13h45-15h30 : discussions
+- 15h50-16h15 : pause café
+- 16h15-17h30 : discussions, roadmap
 
 
 ## Instructions aux auteurs - soumission & notification
