@@ -14,7 +14,13 @@ Des exemples de collaborations sur des sujets mixant GL et IHM peuvent être :
 - De l'aide à la rédaction d'articles de chercheurs GL (respectivement IHM) voulant publier dans des conférences IHM (respectivement GL)
 - Des actions communes avec le groupe de travail IFIP 2.7 (User Interface Engineering), par exemple dans le cadre de la conférence EICS
 
-Co-créateurs du groupe : Arnaud Blouin (INSA Rennes, IRISA/Inria), Xavier Le Pallec (Université de Lille), Sophie Dupuy-Chessa (Université Grenoble-Alpes, LIG)
+**Co-animateurs actuels du groupe :**
+- Arnaud Blouin (INSA Rennes, IRISA/Inria), 2017...
+- Philippe Palanque (Toulouse 3, IRIT), 2022...
+- Damien Pollet, (Université de Lille 1, Cristal/Inria), 2023...
+
+
+Co-créateurs du groupe : Arnaud Blouin (INSA Rennes, IRISA/Inria), Xavier Le Pallec (Université de Lille) (2017-2023), Sophie Dupuy-Chessa (Université Grenoble-Alpes, LIG) (2017-2022)
 
 
 # Mailing-list
