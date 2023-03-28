@@ -91,11 +91,16 @@ Pour lancer la réflexion nous proposons ci-dessous un ensemble de fonctions d'u
 - 12h30-13h45 : pause déjeuner
 
 
-### Après-midi (en cours de définition)
+### Après-midi
 
-- 13h45-15h30 : discussions
+- 13h45-15h30 : Ateliers :
+  - Recenser / décrire / analyser les fonctions d’utilisabilité existantes
+  - Recensement et décrire à quel point ces fonctions sont considérées et mises en oeuvre dans les toolkits UI actuels (Web, desktop, mobile) et dans les outils de modélisation (e.g. Sirius, Papyrus) et de développement (IDE)
+  - Recensement des tâches de développement (aussi bien code que modèle) et identification de ces tâches dont la charge de travail est allégée par l’ajout de fonctions d’utilisabilité
+
 - 15h50-16h15 : pause café
-- 16h15-17h30 : discussions, roadmap
+- 16h15-17h10 : ateliers et mise en commun
+- 17h10-17h30 : roadmap
 
 
 ## Instructions aux auteurs - soumission & notification
