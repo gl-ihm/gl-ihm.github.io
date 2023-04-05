@@ -80,15 +80,15 @@ Arnaud Blouin, Elodie Bouzekri, Detjon Brahimaj, Vasile Ciorna, Mickael Clavreul
 
 ### Matin
 
-- 9h-9h20 : introduction (Arnaud Blouin)
-- 9h25-9h50 : Fonctions d'utilisabilité des configurateurs Web : aperçu et perspectives, Tony Leclercq, Patrick Heymans (Université de Namur, NaDI - PReCISE)
-- 9h50-10h15 : Fonctions d'utilisabilité dans les studios de conception de langages dédiés graphiques, Théo Giraudet, Pierre-Charles David (Obeo)
+- 9h-9h20 : introduction (Arnaud Blouin) -- [presentation](glihm-ihm23/presentations/intro-blouin.pdf)
+- 9h25-9h50 : Fonctions d'utilisabilité des configurateurs Web : aperçu et perspectives, Tony Leclercq, Patrick Heymans (Université de Namur, NaDI - PReCISE) -- [article](glihm-ihm23/articles/Leclercq_et_al.pdf) [presentation](glihm-ihm23/presentations/Leclercq_et_al.pdf)
+- 9h50-10h15 : Fonctions d'utilisabilité dans les studios de conception de langages dédiés graphiques, Théo Giraudet, Pierre-Charles David (Obeo) -- [article](glihm-ihm23/articles/Giraudet_et_al.pdf) [presentation](glihm-ihm23/presentations/Giraudet_et_al.pdf)
 - 10h15: 10h30: discussions
 
 - 10h30-11h : pause café
 
-- 11h-11h25 : Vers l'identification des fonctions d’utilisabilité à fort impact sur la conception, Elodie Bouzekri (Univ. Bordeaux, ESTIA INSTITUT DE TECHNOLOGIE)
-- 11h25-11h50 : Fortunettes: Une Fonction d’Utilisabilité de Comportement pour les Systèmes Interactifs, Philippe Palanque, David Navarre, Célia Martinie (ICS-IRIT, Université Paul Sabatier – Toulouse III), Kris Luyten (Expertise Centre for Digital Media)
+- 11h-11h25 : Vers l'identification des fonctions d’utilisabilité à fort impact sur la conception, Elodie Bouzekri (Univ. Bordeaux, ESTIA INSTITUT DE TECHNOLOGIE) -- [article](glihm-ihm23/articles/Bouzekri.pdf) [presentation](glihm-ihm23/presentations/Bouzekri.pdf)
+- 11h25-11h50 : Fortunettes: Une Fonction d’Utilisabilité de Comportement pour les Systèmes Interactifs, Philippe Palanque, David Navarre, Célia Martinie (ICS-IRIT, Université Paul Sabatier – Toulouse III), Kris Luyten (Expertise Centre for Digital Media) -- [article](glihm-ihm23/articles/Palanque_et_al.pdf) [presentation](glihm-ihm23/presentations/Palanque_et_al.pdf)
 
 - 12h00: 12h30: discussions
 
@@ -97,7 +97,7 @@ Arnaud Blouin, Elodie Bouzekri, Detjon Brahimaj, Vasile Ciorna, Mickael Clavreul
 
 ### Après-midi
 
-- 14h-14h25 : Génération de correctifs pour les modèles partiels d'AnimUML**, Mickael Clavreul, Frédéric Jouault, Maxime Méré, Matthias Brun, Théo Le Calvar, Matthias Pasquier, Ciprian Teodorov (ESEO, STMicroelectronics, IMT Atlantique, ERTOSGENER, ENSTA Bretagne)
+- 14h-14h25 : Génération de correctifs pour les modèles partiels d'AnimUML**, Mickael Clavreul, Frédéric Jouault, Maxime Méré, Matthias Brun, Théo Le Calvar, Matthias Pasquier, Ciprian Teodorov (ESEO, STMicroelectronics, IMT Atlantique, ERTOSGENER, ENSTA Bretagne) -- [article](glihm-ihm23/articles/Clavreul_et_al.pdf) 
 
 - 13h30-15h30 : Discussions
   - Qu'est-ce qu'une fonction d'utisabilité
