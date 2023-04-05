@@ -14,8 +14,6 @@ Les fonctions d'utilisabilité (usability functions) et leur présence dans les 
 
 
 
-
-
 ## Introduction
 Dans l'article [1], une fonction d'utilisabilité est définie en référence aux fonctions de sécurité [2] (e.g. un screen locker) ou de sureté [3] (e.g. une ceinture de sécurité dans une voiture). L'undo/redo, l'annulation de tâches en cours (cancelation) ou le feedforward sont des fonctions d'utilisabilité dans la mesure où elles n'ajoutent pas de fonctionnalités nouvelles au système mais augmentent uniquement son utilisabilité. De façon similaire, une fonction de sureté va accroitre la sureté du système en prévenant des problèmes de sureté non désirés (par exemple la ceinture de sécurité n'ajoute rien au véhicule mais accroit la sureté des passagers en réduisant leur probabilité d'être blessés ou d'être tués).
 Actuellement les fonctions d'utilisabilité sont nombreuses, difficiles à programmer (e.g. pour undo [4]), hétérogènes et mal identifiées même si leur bénéfice en terme d'utilisabilité est indiscutable. 
@@ -72,6 +70,12 @@ Pour lancer la réflexion nous proposons ci-dessous un ensemble de fonctions d'u
 - **Génération de correctifs pour les modèles partiels d'AnimUML**, Mickael Clavreul, Frédéric Jouault, Maxime Méré, Matthias Brun, Théo Le Calvar, Matthias Pasquier, Ciprian Teodorov (ESEO, STMicroelectronics, IMT Atlantique, ERTOSGENER, ENSTA Bretagne)
 - **Fortunettes: Une Fonction d’Utilisabilité de Comportement pour les Systèmes Interactifs**, Philippe Palanque, David Navarre, Célia Martinie (ICS-IRIT, Université Paul Sabatier – Toulouse III), Kris Luyten (Expertise Centre for Digital Media)
 
+## Participants (12)
+
+Arnaud Blouin, Elodie Bouzekri, Detjon Brahimaj, Vasile Ciorna, Mickael Clavreul, Kevin Falzone, Théo Giraudet, Tony Leclercq, Philippe Palanque, Damien Pollet, Romain Rouyer, Philippe Schmid
+
+
+
 ## Organisation de la journée
 
 ### Matin
@@ -85,21 +89,23 @@ Pour lancer la réflexion nous proposons ci-dessous un ensemble de fonctions d'u
 
 - 11h-11h25 : Vers l'identification des fonctions d’utilisabilité à fort impact sur la conception, Elodie Bouzekri (Univ. Bordeaux, ESTIA INSTITUT DE TECHNOLOGIE)
 - 11h25-11h50 : Fortunettes: Une Fonction d’Utilisabilité de Comportement pour les Systèmes Interactifs, Philippe Palanque, David Navarre, Célia Martinie (ICS-IRIT, Université Paul Sabatier – Toulouse III), Kris Luyten (Expertise Centre for Digital Media)
-- 11h50-12h15 : Génération de correctifs pour les modèles partiels d'AnimUML**, Mickael Clavreul, Frédéric Jouault, Maxime Méré, Matthias Brun, Théo Le Calvar, Matthias Pasquier, Ciprian Teodorov (ESEO, STMicroelectronics, IMT Atlantique, ERTOSGENER, ENSTA Bretagne)
-- 12h15: 12h30: discussions
+
+- 12h00: 12h30: discussions
 
 - 12h30-13h45 : pause déjeuner
 
 
 ### Après-midi
 
-- 13h45-15h30 : Ateliers :
-  - Recenser / décrire / analyser les fonctions d’utilisabilité existantes
-  - Recensement et décrire à quel point ces fonctions sont considérées et mises en oeuvre dans les toolkits UI actuels (Web, desktop, mobile) et dans les outils de modélisation (e.g. Sirius, Papyrus) et de développement (IDE)
-  - Recensement des tâches de développement (aussi bien code que modèle) et identification de ces tâches dont la charge de travail est allégée par l’ajout de fonctions d’utilisabilité
+- 14h-14h25 : Génération de correctifs pour les modèles partiels d'AnimUML**, Mickael Clavreul, Frédéric Jouault, Maxime Méré, Matthias Brun, Théo Le Calvar, Matthias Pasquier, Ciprian Teodorov (ESEO, STMicroelectronics, IMT Atlantique, ERTOSGENER, ENSTA Bretagne)
 
-- 15h50-16h15 : pause café
-- 16h15-17h10 : ateliers et mise en commun
+- 13h30-15h30 : Discussions
+  - Qu'est-ce qu'une fonction d'utisabilité
+  - Exemples
+
+- 15h30-16h00 : pause café
+
+- 16h15-17h10 : Discussions
 - 17h10-17h30 : roadmap
 
 
