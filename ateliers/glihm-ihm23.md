@@ -97,7 +97,7 @@ Arnaud Blouin, Elodie Bouzekri, Detjon Brahimaj, Vasile Ciorna, Mickael Clavreul
 
 ### Après-midi
 
-- 14h-14h25 : Génération de correctifs pour les modèles partiels d'AnimUML**, Mickael Clavreul, Frédéric Jouault, Maxime Méré, Matthias Brun, Théo Le Calvar, Matthias Pasquier, Ciprian Teodorov (ESEO, STMicroelectronics, IMT Atlantique, ERTOSGENER, ENSTA Bretagne) -- [article](glihm-ihm23/articles/Clavreul_et_al.pdf) 
+- 14h-14h25 : Génération de correctifs pour les modèles partiels d'AnimUML**, Mickael Clavreul, Frédéric Jouault, Maxime Méré, Matthias Brun, Théo Le Calvar, Matthias Pasquier, Ciprian Teodorov (ESEO, STMicroelectronics, IMT Atlantique, ERTOSGENER, ENSTA Bretagne) -- [article](glihm-ihm23/articles/Clavreul_et_al.pdf) [presentation](glihm-ihm23/presentations/Clavreul_et_al.pdf)
 
 - 13h30-15h30 : Discussions
   - Qu'est-ce qu'une fonction d'utisabilité
