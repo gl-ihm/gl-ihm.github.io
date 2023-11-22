@@ -2,7 +2,7 @@
 
 L'interaction humain-machine a toujours eu un lien fort avec le génie logiciel au travers de l'ingénierie des IHM. D'un côté, une IHM est un artefact logiciel nécessitant des techniques de GL pour être conçue, développée, validée, maintenue et intégrée dans un logiciel.
 Cette ingénierie des IHM concerne depuis toujours une partie de la communauté IHM francophone.
-D'un autre côté, le GL a besoin de l'IHM pour définir ses outils et techniques : visualisation de données, techniques d'interaction, utilisabilité, sont des exemples de thèmes IHM qui intéressent la communauté GL. 
+D'un autre côté, le GL a besoin de l'IHM pour définir ses outils et techniques : visualisation de données, techniques d'interaction, utilisabilité, sont des exemples de thèmes IHM qui intéressent la communauté GL.
 
 Pourtant les communautés françaises du Génie Logiciel et de l'Interaction Humain-Machine n'ont pas de « cadre de discussion » usuel. A l'heure actuelle, des équipes d'IHM et de GL collaborent de manière très ponctuelle, force est de constater que cette thématique mixte ne donne même pas lieu à un ou des espaces de discussion dans les conférences francophones. C’est à la suite de ce constat, qu’est née l’idée de fédérer un groupe francophone autour des thèmes du GL et de l'IHM afin de faire émerger de nouvelles collaborations entre ces deux communautés. Cette fédération est au coeur de l'action spécifique "Génie Logiciel et Interaction Humain-Machine".
 
@@ -34,6 +34,11 @@ Une mailing-list est associée au groupe (faible trafic) : glihm **at** inria.fr
 
 
 # Réunions
+
+## Atelier à IHM 2024 le 26 mars 2024
+
+
+[Plus de détails sur cette page.]({% link ateliers/glihm-ihm24.md %})
 
 ## Atelier à IHM 2023 le 3 avril 2023
 
@@ -107,7 +112,7 @@ Valentin Besnard, Mickaël Clavreul, Sophie Dupuy-Chessa, Frédéric Jouault, Xa
 
 La thématique de cette journée était centrée sur l'évaluation de concepts et d'outils de Génie Logiciel pour les IHM ou d'IHM pour le Génie Logiciel. L'évaluation, conduite généralement par le biais d'expérimentations, est un point central des travaux de recherche en IHM. Cela concerne également la recherche en génie logiciel qui requière de plus en plus d'expérimentations, d'études pour concevoir, analyser, évaluer des propositions de concepts ou d'outils (cf. l'action spécifique génie logiciel empirique du GDR-GPL).
 
-Les participants à cette journée ont été invités à préparer quelques slides (5 min) expliquant leurs problèmes ou leur retour d'expérience (méthode expérimentale utilisée, points forts, points faibles) liés à l'évaluation en Génie Logiciel. 
+Les participants à cette journée ont été invités à préparer quelques slides (5 min) expliquant leurs problèmes ou leur retour d'expérience (méthode expérimentale utilisée, points forts, points faibles) liés à l'évaluation en Génie Logiciel.
 
 Voici les différentes personnes qui sont intervenues et les thématiques qui ont été abordées
 - Emmanuel Renaux & X. Le Pallec : Retours rapides sur le workshop HuFaMo à Models 2018 (Human Factor in Modeling)
@@ -119,14 +124,14 @@ Voici les différentes personnes qui sont intervenues et les thématiques qui on
 - Maxime Savary-Leblanc :  The effect of using Models on Software Design Communication
 - Tanguy Giuffrida : Présentation d'un système en logique floue pour l'adaptation dynamique d'IHM.
 - Arnaud Blouin : Retours sur la conduite d'évaluations empiriques avec des humains dans des articles GL
-    
+
 
 
 ## Réunion à Paris le 6 Novembre 2017
 
 Cette journée vise à :
 enrichir la cartographie des thématiques communes entre GL et IHM initiée lors de l'atelier à IHM'2017;
-recenser les actions à mener afin de mieux structurer les collaborations entre les deux communautés. 
+recenser les actions à mener afin de mieux structurer les collaborations entre les deux communautés.
 
 Comme indiqué plus haut, des exemples d'actions sur des sujets mixant GL et IHM peuvent être des montages de projets, des collaborations sur des articles, des aides ponctuelles sur des problématiques de GL ou d'IHM, de l'aide à la rédaction d'articles de chercheurs en IHM voulant publier dans des conférences GL.
 
@@ -147,7 +152,7 @@ Arnaud Blouin, Sophie Dupuy-Chessa, Xavier Le Pallec
 
 ## Atelier à IHM 2017
 
-Tour de table où chacun a présenté ses thématiques de recherche et ses points d'ancrage avec les thématiques de Génie Logiciel. A l'issue de ces présentations, une cartographie des thématiques a été élaborée conjointement. 
+Tour de table où chacun a présenté ses thématiques de recherche et ses points d'ancrage avec les thématiques de Génie Logiciel. A l'issue de ces présentations, une cartographie des thématiques a été élaborée conjointement.
 L'après-midi s'est focalisé sur les actions à mener par le groupe (réunions de travail, mise en place de référents, aide à la rédaction d'articles...) en fonction des attentes et besoins des participants.
 
 **Participants :**
