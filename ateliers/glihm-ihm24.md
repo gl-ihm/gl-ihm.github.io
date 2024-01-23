@@ -42,10 +42,12 @@ Présentations et discussions.
 
 ## Instructions aux auteurs - soumission & notification
 
+Proposer un sujet de discussion et facultatif. Si vous voulez juste venir, pas de problème envoyez-nous un message.
+
 - 1 page attendue (plus si utile)
 - format ACM SIGCHI double colonne
 - par email aux organisateurs de l'atelier (arnaud.blouin at irisa point fr, palanque at irit point fr, damien.pollet at inria point fr)
-- date limite 19/01/2024 AoE
+- date limite 05/02/2024 
 - notification le 24/01/2024
 - atelier le 26/03/2023 (toute la journée)
 
