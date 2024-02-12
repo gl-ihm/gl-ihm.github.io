@@ -40,15 +40,11 @@ Présentations et discussions.
 À venir
 
 
-## Instructions aux auteurs - soumission & notification
+## Instructions aux participants
 
-Proposer un sujet de discussion et facultatif. Si vous voulez juste venir, pas de problème envoyez-nous un message.
+Proposer un sujet de discussion est facultatif. Pour se faire, envoyez-nous un message avec la thématique envisagée. Si vous voulez juste venir, pas de problème envoyez-nous un message.
 
-- 1 page attendue (plus si utile)
-- format ACM SIGCHI double colonne
-- par email aux organisateurs de l'atelier (arnaud.blouin at irisa point fr, palanque at irit point fr, damien.pollet at inria point fr)
-- date limite 05/02/2024 
-- notification le 24/01/2024
+
 - atelier le 26/03/2023 (toute la journée)
 
 Nous attendons d'un article qui décrive un problème, une contribution en cours, une expérimentation à venir. Les buts sont multiples :
