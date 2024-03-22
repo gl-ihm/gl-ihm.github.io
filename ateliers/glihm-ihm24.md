@@ -52,8 +52,10 @@ Présentations et discussions.
 
 - Damien Pollet, "first-class interactions" (30min)
 
+- Philippe Palanque, "TBA" (30min)  
 
-- Discussions programmation d'interactions (1h) 
+
+- Discussions programmation d'interactions (30h) 
 
 
 
