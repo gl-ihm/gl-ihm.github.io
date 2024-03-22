@@ -5,8 +5,13 @@
 La journée aura lieu le mardi 26 mars à Paris (Sorbonne Université).
 https://ihm2024.afihm.org
 
-La participation à l'atelier requière une inscription à la conférence:
+La participation physique à l'atelier requière une inscription à la conférence:
 https://ihm2024.afihm.org/?inscriptions
+
+## Localisation
+
+bâtiment ISIR (pyramide entre les pilliers), Barre 56 - 55, 1ier étage 
+https://ihm2024.afihm.org/?infos-pratiques
 
 ## Organisateurs
 
@@ -30,14 +35,51 @@ Présentations et discussions.
 
 ## Organisation de la journée
 
-### Matin
+### Introduction et tour de table (9h00- 9h15)
 
-À venir
+### Programmation d'interactions partie 1 (9h15-10h30)
+
+- Stéphane Conversy, "TBA" (30 min)
+
+- Martin Tricaud, démonstration : "la conception de techniques d’interaction par résolution de contraintes géométriques, les patterns d’interaction bidirectionnelle, et le polymorphisme paramétrique pour découpler les techniques d’interaction des représentations auxquelles elles s'appliquent" (30 min)
+
+- Arnaud Blouin, Univ Rennes, "User interaction processing with Interacto" (30min)
+  
+
+### Pause café (10h30-11h00)
+
+### Programmation d'interactions partie 2 (11h00-12h30)
+
+- Damien Pollet, "first-class interactions" (30min)
 
 
-### Après-midi
+- Discussions programmation d'interactions (1h) 
 
-À venir
+
+
+### Interactivité et utilisabilité/UX de systèmes interactifs (13h30-15h)
+
+
+- Kathia Marcal de Oliveira, "Métriques pour applications ubiquiaires" (30min)
+
+
+- Arnaud Blouin, Univ Rennes, "A survey on the use of user command histories" (30min)
+
+
+- Théo Giraudet, Obeo, Univ Rennes, "Production d'environnements de modélisation interactifs" (30min)
+
+
+### Pause café (15h15-15h45)
+
+### Thèmes de discussions à décider (15h45-17h00)
+
+- Quelles fonctions d'utilisabilité sont spécifiques aux langages de modélisation graphiques ? Exemple : zoom sémantique, filtrage dynamique, 
+(1h)
+
+- Autres thèmes issus des présentations identifiés au fil de l'eau (1h) 
+
+- Activités futures du GT GLM-IHM (15mn)
+
 
 
 ## Instructions aux participants
