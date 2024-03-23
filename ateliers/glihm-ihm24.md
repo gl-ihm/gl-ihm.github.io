@@ -39,9 +39,9 @@ Présentations et discussions.
 
 ### Programmation d'interactions partie 1 (9h15-10h30)
 
-- Stéphane Conversy, "TBA" (30 min)
+- Stéphane Conversy, "Qu'est-ce qu'un programme de recherche en Génie Logiciel pour l'IHM ?" (30 min)
 
-- Martin Tricaud, démonstration : "la conception de techniques d’interaction par résolution de contraintes géométriques, les patterns d’interaction bidirectionnelle, et le polymorphisme paramétrique pour découpler les techniques d’interaction des représentations auxquelles elles s'appliquent" (30 min)
+- Martin Tricaud, démonstration : "Patterns de programmation pour l’interaction instrumentale: perspectives et défis" (30 min)
 
 - Arnaud Blouin, Univ Rennes, "User interaction processing with Interacto" (30min)
   
