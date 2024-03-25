@@ -13,6 +13,9 @@ https://ihm2024.afihm.org/?inscriptions
 bâtiment ISIR (pyramide entre les pilliers), Barre 56 - 55, 1ier étage 
 https://ihm2024.afihm.org/?infos-pratiques
 
+Vous pouvez récupérer votre badge au bureau d'accueil :
+Bureau d'accueil au SCAI - Hall d'entrée
+
 ## Organisateurs
 
 - Arnaud Blouin, Univ Rennes
@@ -64,6 +67,7 @@ Présentations et discussions.
 
 - Kathia Marcal de Oliveira, "Métriques pour applications ubiquiaires" (30min)
 
+- Mickael Clavreul, ESEO, "TBA" (30min)
 
 - Arnaud Blouin, Univ Rennes, "A survey on the use of user command histories" (30min)
 
