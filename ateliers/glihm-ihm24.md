@@ -67,7 +67,7 @@ Présentations et discussions.
 
 - Kathia Marcal de Oliveira, "Métriques pour applications ubiquiaires" (30min)
 
-- Mickael Clavreul, ESEO, "TBA" (30min)
+- Mickael Clavreul, ESEO, "Diagram Layout Patterns" (30min)
 
 - Arnaud Blouin, Univ Rennes, "A survey on the use of user command histories" (30min)
 
