@@ -35,6 +35,12 @@ Une mailing-list est associée au groupe (faible trafic) : glihm **at** inria.fr
 
 # Réunions
 
+## 19 juin 2024 (virtuelle)
+
+**Programme (13h30-15h30) :**
+TBA
+
+
 ## Atelier à IHM 2024 le 26 mars 2024
 
 
