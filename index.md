@@ -39,8 +39,9 @@ Une mailing-list est associée au groupe (faible trafic) : glihm **at** inria.fr
 
 **Programme (13h30-15h30) :**
 TBA, mais actuellement :
-- 13h30 - 14h00 : "Lorgnette: Creating Malleable Code Projections", Camille Gobet
-- 14h00 - 14h30 : "Concevoir des historiques indépendants des applications pour les rendre flexibles et partageables", Alexandre Battut
+- 13h30 - 14h00 : "Lorgnette: Creating Malleable Code Projections", Camille Gobet (invité)
+- 14h00 - 14h30 : "Concevoir des historiques indépendants des applications pour les rendre flexibles et partageables", Alexandre Battut (invité)
+- Discussions sur le futur du groupe en lien avec la création du GDR-IHM
 
 
 ## Atelier à IHM 2024 le 26 mars 2024
