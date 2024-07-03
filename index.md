@@ -42,7 +42,9 @@ Une mailing-list est associée au groupe (faible trafic) : glihm **at** inria.fr
 - 13h30 - 14h00 : “Lorgnette: Creating Malleable Code Projections”, Camille Gobet, UIST 2023 https://inria.hal.science/hal-04261380/document (invité)
 - 14h00 - 14h30 : “Concevoir des historiques indépendants des applications pour les rendre flexibles et partageables”, Alexandre Battut (invité)
 - 14h30 - 15h00 : "Beyond Prototyping: A Systematic Process to Engineer Dependable Integration of Frame-based Input Devices in a Multimodal Input Chain", Axel Carayon. EICS 2024 https://dl.acm.org/doi/abs/10.1145/3664633 (invité)
-- 15h00 - 15h30 : discussions autour du GDR-IHM 
+- 15h00 - 15h30 : discussions autour du GDR-IHM
+
+Participants : Arnaud Blouin, Célia Martinie, Pierre-Yves Schobbens, Théo Le Calvar, Mickaël Clavreul, Nathan Monsoro, Mathieu Acher, Élodie Bouzekri, Damien Pollet, Axel Carayon, Alexandre Battut, Pierre Laborde, Yann Le Goff, Camille Gobert, Aaron Randrianaina
 
 
 ## Atelier à IHM 2024 le 26 mars 2024
