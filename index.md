@@ -38,10 +38,10 @@ Une mailing-list est associée au groupe (faible trafic) : glihm **at** inria.fr
 ## 3 juillet 2024 (virtuelle)
 
 **Programme (13h30-15h30) :**
-TBA, mais actuellement :
-- 13h30 - 14h00 : "Lorgnette: Creating Malleable Code Projections", Camille Gobet (invité)
-- 14h00 - 14h30 : "Concevoir des historiques indépendants des applications pour les rendre flexibles et partageables", Alexandre Battut (invité)
-- Discussions sur le futur du groupe en lien avec la création du GDR-IHM
+13h30 - 14h00 : “Lorgnette: Creating Malleable Code Projections”, Camille Gobet, UIST 2023 https://inria.hal.science/hal-04261380/document (invité)
+14h00 - 14h30 : “Concevoir des historiques indépendants des applications pour les rendre flexibles et partageables”, Alexandre Battut (invité)
+14h30 - 15h00 : "Beyond Prototyping: A Systematic Process to Engineer Dependable Integration of Frame-based Input Devices in a Multimodal Input Chain", Axel Carayon. EICS 2024 https://dl.acm.org/doi/abs/10.1145/3664633 (invité)
+15h00 - 15h30 : discussions autour du GDR-IHM 
 
 
 ## Atelier à IHM 2024 le 26 mars 2024
